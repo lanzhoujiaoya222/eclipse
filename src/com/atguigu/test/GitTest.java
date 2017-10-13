@@ -6,5 +6,6 @@ public class GitTest {
 		System.out.println("aaaaaaaaaaaaaa");
 		System.out.println("aaaaaaaaaaasdfsfaa");
 		System.out.println("hhhhhhhhhhhhhhhhhhhh");
+		System.err.println("aaaaaaaaaaaaaaaaaaaaaaaaa");
 	}
 }
